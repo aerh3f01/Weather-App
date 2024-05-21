@@ -1,3 +1,6 @@
+# Secrets
+*.secret.js
+
 # Logs
 logs
 *.log

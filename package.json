@@ -1,15 +1,5 @@
 {
-  "name": "weather-desktop-app",
+  "name": "weather-web-app",
   "version": "1.0.0",
-  "description": "A weather app built with Electron",
-  "main": "main.js",
-  "scripts": {
-    "start": "electron ."
-  },
-  "devDependencies": {
-    "electron": "^13.1.7"
-  },
-  "dependencies": {
-    "dotenv": "^16.4.5"
-  }
+  "description": "A weather app built for web applications. Adapted from the desktop version."
 }
